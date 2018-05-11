@@ -1,0 +1,19 @@
+{
+  "name": "nextnconf",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "localhost",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "nconf": "^0.10.0",
+    "next": "^6.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.3.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  }
+}
